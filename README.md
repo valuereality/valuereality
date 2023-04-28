@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @valuereality
-- 👀 I’m interested in how to apply the latest technology to solve real life problems.
-- 🌱 I’m currently learning ... docker, IoT, mobile.
+- 👋 Hi, We're @valuereality
+- 👀 We're only interested in web3 & emerging technology. 
+
 
 <!---
 valuereality/valuereality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
